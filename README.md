@@ -35,5 +35,5 @@ Thanks To:
 - Me :)
 
 # Support
-Donate to me via: https://saweria.co/masgalih320<br>
-If you have any question, dm to my Instagram https://instagram.com/galihsptr320 or email me at masgalih320@gmail.com<br>
+Support me via <a href="https://sociabuzz.com/masgalih320/support">Sociabuzz</a>
+If you have any question, send me a message to my Instagram https://instagram.com/galihsptr320 or email me at masgalih320@gmail.com<br>
