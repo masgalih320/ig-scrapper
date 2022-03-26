@@ -1,8 +1,8 @@
 """
     Project Name: Instagram Profile Scrapper
     Author: FDCI Galih
-    Website: https://galih-ckt.my.id
-    GitHub: https://github.com/galihsptr320
+    Website: https://galihsptr.id
+    GitHub: https://github.com/masgalih320
 """
 # Import Library
 from os import system
