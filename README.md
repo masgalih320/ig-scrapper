@@ -1,6 +1,7 @@
 # IG Profile Scrapper
 Instagram profile Scrapper<br>
 Just type the username, and boo! :D
+<b>UPDATE 2023 this project still work fine </b>
 
 # Instalation
 clone this repo to your computer
@@ -35,5 +36,5 @@ Thanks To:
 - Me :)
 
 # Support
-Support me via <a href="https://sociabuzz.com/masgalih320/support">Sociabuzz</a>
+Support me via <a href="https://saweria.co/masgalih320">Saweria</a>
 If you have any question, send me a message to my Instagram https://instagram.com/galihsptr320 or email me at masgalih320@gmail.com<br>
