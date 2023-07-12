@@ -1,6 +1,6 @@
 # IG Profile Scrapper
 Instagram profile Scrapper<br>
-Just type the username, and boo! :D
+Just type the username, and boo! :<br>
 <b>UPDATE 2023 this project still work fine </b>
 
 # Instalation
