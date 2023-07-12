@@ -23,7 +23,7 @@ def checkOS():
 
 # Get IG username from user input
 print("--------------------------------------------")
-print("Input example : galih.stynsptr320")
+print("Input example : galihsptr320")
 print("--------------------------------------------")
 def getInput():
     username = ""
